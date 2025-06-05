@@ -84,6 +84,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 
 ### Articles
 
+- [Semantic search with embeddings in Spring & Kotlin]([https://medium.com/me/stats/post/83e2c2f3406f](https://medium.com/p/83e2c2f3406f)) - Comprehensive guide to the use of embeddings in Spring AI (Apri 2025)
 - [Spring AI in Java Applications](https://medium.com/@oleksandr.klymenko/power-of-ai-in-java-applications-with-spring-ai-62bc2c2aa849) - Vision for enterprise AI integration with Spring (March 2025)
 - [Configuring MCP-Client SSE using Spring AI](https://medium.com/@shaamamanoharan/configuring-mcp-client-sse-in-spring-boot-fb07371c35a7) - Technical guide for configuring Server-Sent Events with MCP clients (February 2025)
 - [Spring AI: A Beginner's Guide (Part 1)](https://medium.com/@kushparsaniya/spring-ai-a-beginners-guide-part-1-8a0ef9c52f21) & [Part 2](https://medium.com/@kushparsaniya/spring-ai-a-beginners-guide-part-2-dff1f353650b) - Multi-part walkthrough of Spring AI fundamentals. Part 1 covers integrating chat models (OpenAI/Ollama) in Spring Boot; Part 2 dives into the Advisor API (December 2024)
@@ -92,6 +93,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - [Getting Started with Spring AI (Java Code Geeks)](https://www.javacodegeeks.com/2024/09/getting-started-with-spring-ai.html) - Simple introduction to Spring AI for Java developers (September 2024)
 - [Getting Started with Spring AI](https://medium.com/@arvindcoder/getting-started-with-spring-ai-c5a630b1d7c2) - Introduction to Spring AI's core components and model abstractions (August 2024)
 - [How to Write GenAI Applications with Java (Foojay.io)](https://foojay.io/today/spring-ai-generative-ai-java/) - Comprehensive guide covering RAG and Spring AI templates (July 2024)
+
 
 ### Online Training
 
@@ -158,6 +160,10 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 
 - [Spring AI with QianFan](https://gitee.com/dino9527/spring-ai-examples.git) - Spring AI support for various AI language models from QianFan. Shows how to interact with QianFan language models and create a multilingual conversational assistant based on QianFan models.
 
+- [Similarity Search using Spring AI](https://github.com/thecodemonkey/SimilaritySearch) - Implementation of a simple similarity search. Demonstrating how to use Kotlin or Java with Spring-AI to generate smbeddings and perform simple similarity searches.
+
+
+
 ### UI Clients
 
 - [Spring AI HTMX MCP](https://github.com/habuma/spring-ai-examples/tree/main/spring-ai-htmx-mcp) - Example of building a modern, interactive UI for Spring AI applications using HTMX. Demonstrates how to create a responsive chat interface with minimal JavaScript by leveraging HTMX's server-side rendering capabilities combined with Spring AI's Model Context Protocol.
@@ -217,6 +223,8 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - [Adib Saikali](https://x.com/asaikali)
 - [Clémentine Fourrier](https://x.com/clefourrier)
 - [Craig Walls](https://x.com/habuma)
+- [Ilja Leyberman](https://www.linkedin.com/in/ilja-leyberman-3489aa1a1/)
+
 
 
 ## Podcasts
