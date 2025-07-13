@@ -108,6 +108,8 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - [Integrating AI with Spring Boot: A Beginner's Guide](https://mydeveloperplanet.com/2025/01/08/integrating-ai-with-spring-boot-a-beginners-guide/) - Beginner-friendly tutorial covering chat responses, streaming, system messages, chat memory, and prompt templates (January 2025)
 - [Spring AI: Integrating Artificial Intelligence into the Spring Ecosystem](https://medium.com/@agitrubard/spring-ai-integrating-artificial-intelligence-into-the-spring-ecosystem-5b10a2657ab8) - Comprehensive overview of Spring AI architecture, key features, use cases, and advantages (2025)
 - [Integrating LLM into Java Applications with Spring AI — Chat Client API](https://medium.com/@johnidouglasmarangon/integrating-llm-into-java-applications-with-spring-ai-chat-client-api-21e0bacedced) - Comprehensive guide covering the Chat Client API, streaming responses, and structured output with practical examples (2025)
+- [Understanding Tool/Function Calling in LLMs (Step-by-Step Examples in REST and Spring AI](https://muthuishere.medium.com/understanding-tool-function-calling-in-llms-step-by-step-examples-in-rest-and-spring-ai-2149ecd6b18b) - Learn how to implement OpenAI-style tool calling — from raw REST to elegant Spring AI annotations (2025)
+
 
 ### Online Training
 
