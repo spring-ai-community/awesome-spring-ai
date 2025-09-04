@@ -85,6 +85,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 
 ### Articles
 
+- [Why Spring AI: The Seamless Path to Generative AI](https://spring.io/blog/2024/11/19/why-spring-ai) - an article explaing the benefits of Spring AI and why you may consider it in favour of other AI frameworks.
 - [Spring AI with Amazon Bedrock - Part 1: Introduction and Sample Application](https://dev.to/aws-heroes/spring-ai-with-amazon-bedrock-part-1-introduction-and-the-sample-application-4hof) - Tutorial demonstrating how to build a conference search application using Spring AI and Amazon Bedrock's Converse API, covering tool-based interaction with language models (August 2025)
 - [Building Java AI Agents with Spring AI](https://aws-experience.com/emea/smb/e/90912/building-java-ai-agents-with-spring-ai) - Technical guide focused on creating intelligent software agents using Java programming and the Spring AI technology platform (2025)
 - [Spring AI in Java Applications](https://medium.com/@oleksandr.klymenko/power-of-ai-in-java-applications-with-spring-ai-62bc2c2aa849) - Vision for enterprise AI integration with Spring (March 2025)
@@ -194,6 +195,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 
 - [Spring AI Playground](https://github.com/JM-Lab/spring-ai-playground) - A web UI designed to make it easy for Java developers to experiment with and integrate AI models. Provides an interactive interface for testing different prompts and models.
 
+- [Multilingual Document Analyzer powered by Spring AI](https://github.com/odedia/spring-ai-multilingual-document-analyzer/tree/main) - A multilingual RAG-based application showing Spring AI using English as well as Right-to-Left languages such as Hebrew.
 ### CLI Applications
 
 - [Spring AI Chat Bot CLI](https://github.com/tzolov/spring-ai-cli-chatbot) - Command-line chatbot with Retrieval-Augmented Generation (RAG) and conversational memory capabilities. Demonstrates how to build interactive CLI applications with Spring AI.
