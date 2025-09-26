@@ -271,6 +271,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - [Kotlin Crypto Price MCP Server](https://github.com/gaplo917/kotlin-cyrpto-price-spring-mcp-server-demo) - A Kotlin-based Spring AI MCP server that provides real-time cryptocurrency price information from Binance.
 - [Spring AI MCP Database Integration Example](https://github.com/anjeludo/spring-ai-mcp) - A practical implementation of MCP with Spring AI featuring two server applications exposing database operations (person and account data) via @Tool annotations and a client application that discovers and uses these tools with OpenAI models.
 - [GitHub MCP Application](https://x.com/Stephan007/status/1910640447740838356) - A 100% Java GitHub MCP application built on Spring AI by Stephan Janssen, creator of Devoxx.
+- [Druid MCP Server](https://github.com/iunera/druid-mcp-server) - A Java-based Enterprise MCP server for Apache Druid that provides extensive tools, resources, and AI-assisted prompts for managing and analyzing Druid clusters using spring-ai-1.1.0 Milestone with the new @Mcp Annotations (@McpTool) and Oauth
 - [AWS Sample MCP Demos](https://github.com/aws-samples/Sample-Model-Context-Protocol-Demos) - Collection of examples showing how to use Model Context Protocol with AWS services, including Spring AI implementations.
 
 ## Community
