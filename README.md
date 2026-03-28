@@ -250,6 +250,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 
 ### Extensions and Forks
 
+- [JamJet Spring Boot Starter](https://github.com/jamjet-labs/jamjet-spring) - Adds durable execution to Spring AI agents with zero code changes. One dependency gives your ChatClient crash recovery (resume from last checkpoint), event-sourced audit trails, human-in-the-loop approval, Micrometer metrics, and OpenTelemetry tracing. Includes a JUnit 5 replay testing framework for deterministic agent tests. Powered by the [JamJet runtime](https://github.com/jamjet-labs/jamjet) (Rust/Tokio). Also supports LangChain4j via `langchain4j-jamjet`. Published on [Maven Central](https://central.sonatype.com/artifact/dev.jamjet/jamjet-spring-boot-starter).
 - [Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba) - An extension of Spring AI that provides an agentic AI framework for Java developers. Adds support for Alibaba Cloud QWen models and Dashscope services, along with additional features like conversation memory, RAG support, and function calling. Maintains compatibility with the Spring AI API while offering specialized capabilities for Alibaba Cloud's AI ecosystem.
 
 ### Development Tools
