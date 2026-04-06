@@ -2,6 +2,7 @@
 
 A curated list of awesome resources, tools, tutorials, and projects for building generative AI applications using Spring AI. This repository aims to help developers leverage the power of Large Language Models (LLMs) within the Spring ecosystem.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for multi-agent orchestration. Framework-agnostic, MIT licensed.
 ## Contents
 
 - [What is Spring AI?](#what-is-spring-ai)
