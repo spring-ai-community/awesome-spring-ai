@@ -252,6 +252,8 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 
 - [Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba) - An extension of Spring AI that provides an agentic AI framework for Java developers. Adds support for Alibaba Cloud QWen models and Dashscope services, along with additional features like conversation memory, RAG support, and function calling. Maintains compatibility with the Spring AI API while offering specialized capabilities for Alibaba Cloud's AI ecosystem.
 
+- [spring-ai-structured-output-guard](https://github.com/Kiyra-gjx/spring-ai-structured-output-guard) - A small extension library for Spring AI structured output calls with targeted retry, lightweight JSON cleanup, and Spring Boot starter support.
+
 ### Development Tools
 
 - [Arconia Ollama Dev Service](https://arconia.io/docs/arconia/latest/dev-services/ollama/) - A Spring Boot development service that automatically manages Ollama instances for local LLM development. Simplifies testing and development with local models by handling container lifecycle and configuration. Integrates seamlessly with Spring AI's Ollama support.
