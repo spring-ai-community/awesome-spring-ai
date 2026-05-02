@@ -242,6 +242,8 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 
 - [Spring AI Playground](https://github.com/JM-Lab/spring-ai-playground) - A web UI designed to make it easy for Java developers to experiment with and integrate AI models. Provides an interactive interface for testing different prompts and models.
 
+- [MateClaw](https://github.com/matevip/mateclaw) - An open-source personal AI operating system on Spring Boot 3.5 + Spring AI Alibaba. One JAR ships a web admin console, a desktop app (bundled JRE 21), an embeddable widget, a Java plugin SDK, and 8 IM channels — DingTalk, Feishu, WeChat Work, WeChat, Telegram, Discord, QQ, Slack — all sharing the same agent runtime. Includes ReAct + Plan-and-Execute agents on Spring AI Alibaba's StateGraph, multi-vendor failover with health tracking, an LLM Wiki with per-sentence citations, memory lifecycle, MCP, and a Tool Guard approval layer.
+
 ### CLI Applications
 
 - [Spring AI Chat Bot CLI](https://github.com/tzolov/spring-ai-cli-chatbot) - Command-line chatbot with Retrieval-Augmented Generation (RAG) and conversational memory capabilities. Demonstrates how to build interactive CLI applications with Spring AI.
