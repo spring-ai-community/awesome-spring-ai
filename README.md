@@ -229,7 +229,6 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - [Spring AI Examples by Craig Walls](https://github.com/habuma/spring-ai-examples) - Comprehensive repository with dozens of examples covering all major Spring AI capabilities, model integrations, and implementation patterns. Created by the author of "Spring AI in Action".
 
 - [Spring AI Showcase by Piotr Minkowski](https://github.com/piomin/spring-ai-showcase) - Modular demo project showcasing multiple Spring AI features including prompt templates, chat memory, structured output, function calling, RAG with Pinecone vector store, and image models. Supports multiple AI providers (OpenAI, Mistral, Ollama, Azure OpenAI) with profile-based configuration.
-
 ### Code Examples
 
 - [Spring AI Official Examples](https://github.com/spring-projects/spring-ai-examples) - Comprehensive official repository containing examples for all Spring AI features including MCP dynamic tools, prompt engineering patterns, agentic workflows, vector stores, and various model integrations (2025)
@@ -239,6 +238,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - [Spring AI with QianFan](https://gitee.com/dino9527/spring-ai-examples.git) - Spring AI support for various AI language models from QianFan. Shows how to interact with QianFan language models and create a multilingual conversational assistant based on QianFan models.
 - [Similarity Search using Spring AI](https://github.com/thecodemonkey/SimilaritySearch) - Implementation of a simple similarity search. Demonstrating how to use Kotlin or Java with Spring-AI to generate embeddings and perform simple similarity searches (March 2025)
 - [Spring AI Shopping Agent with Short-Term & Long-Term Memory](https://github.com/dominikcebula/spring-ai-shopping-agent) - AI-powered shopping assistant built with Spring AI and the Model Context Protocol (MCP).
+- [JavaClaw](https://github.com/ClawRunr/JavaClaw) - Self-hosted personal AI agent built with Spring Boot and Spring AI. Supports multi-channel messaging (Telegram, Discord, WhatsApp), scheduled tasks via JobRunr, MCP tool integration, and a guided onboarding UI. Designed to run on your own hardware. 
 
 ### UI Clients
 
