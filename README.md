@@ -230,7 +230,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 
 - [Spring AI Showcase by Piotr Minkowski](https://github.com/piomin/spring-ai-showcase) - Modular demo project showcasing multiple Spring AI features including prompt templates, chat memory, structured output, function calling, RAG with Pinecone vector store, and image models. Supports multiple AI providers (OpenAI, Mistral, Ollama, Azure OpenAI) with profile-based configuration.
 
-- - [JavaClaw](https://github.com/ClawRunr/JavaClaw) - Self-hosted personal AI agent built with Spring Boot and Spring AI. Supports multi-channel messaging (Telegram, Discord, WhatsApp), scheduled tasks via JobRunr, MCP tool integration, and a guided onboarding UI. Designed to run on your own hardware. 
+- [JavaClaw](https://github.com/ClawRunr/JavaClaw) - Self-hosted personal AI agent built with Spring Boot and Spring AI. Supports multi-channel messaging (Telegram, Discord, WhatsApp), scheduled tasks via JobRunr, MCP tool integration, and a guided onboarding UI. Designed to run on your own hardware. 
 
 ### Code Examples
 
