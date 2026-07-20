@@ -21,7 +21,6 @@ A curated list of awesome resources, tools, tutorials, and projects for building
     - [Workshops](#workshops)
 - [Non-English Resources](#non-english-resources)
     - [Articles (Other Languages)](#articles-other-languages)
-    - [Videos (Other Languages)](#videos-other-languages)
 - [Code & Examples](#code--examples)
     - [Comprehensive Example Collections](#comprehensive-example-collections)
     - [Code Examples](#code-examples)
@@ -216,10 +215,6 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - [Spring AI e Groq: Guia Completo para Criar um Assistente Inteligente](https://bilotta.dev/spring-ai-groq-tutorial) - Portuguese tutorial on using Spring AI with Groq, including prompt engineering with CATS framework (August 2025)
 - [Spring AI入门教学：从零搭建智能应用（2025最新实践）](https://blog.csdn.net/liujibo520/article/details/146282554) - Chinese guide to Spring AI, building a chatbot with Azure OpenAI, streaming responses, memory, multimodal support (March 2025)
 
-### Videos (Other Languages)
-
-- [2025年最新 Spring AI Alibaba 入门到进阶实战教程 (Bilibili Series)](https://www.bilibili.com/video/BVxxxx) - Chinese 54-part video course on Spring AI Alibaba, covering LLMs, RAG, function calling, and e-commerce chatbot building (June 2025)
-
 ## Code & Examples
 
 ### Comprehensive Example Collections
@@ -284,6 +279,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - [Maven Tools MCP Server](https://github.com/arvindand/maven-tools-mcp) - Real-time Maven Central dependency intelligence for AI assistants with Context7 documentation integration.
 
 #### Domain-Specific MCP Implementations
+- [Xquik MCP Server](https://docs.xquik.com/mcp/overview) - Hosted proprietary Streamable HTTP MCP server for X/Twitter data workflows with 2 tools for API discovery and authenticated execution; OAuth 2.1 or API key. Not affiliated with X Corp.
 - [Kotlin Crypto Price MCP Server](https://github.com/gaplo917/kotlin-cyrpto-price-spring-mcp-server-demo) - A Kotlin-based Spring AI MCP server that provides real-time cryptocurrency price information from Binance.
 - [Spring AI MCP Database Integration Example](https://github.com/anjeludo/spring-ai-mcp) - A practical implementation of MCP with Spring AI featuring two server applications exposing database operations (person and account data) via @Tool annotations and a client application that discovers and uses these tools with OpenAI models.
 - [GitHub MCP Application](https://x.com/Stephan007/status/1910640447740838356) - A 100% Java GitHub MCP application built on Spring AI by Stephan Janssen, creator of Devoxx.
