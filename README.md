@@ -289,6 +289,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - [GitHub MCP Application](https://x.com/Stephan007/status/1910640447740838356) - A 100% Java GitHub MCP application built on Spring AI by Stephan Janssen, creator of Devoxx.
 - [Druid MCP Server](https://github.com/iunera/druid-mcp-server) - A Java-based Enterprise MCP server for Apache Druid that provides extensive tools, resources, and AI-assisted prompts for managing and analyzing Druid clusters using spring-ai-1.1.0 Milestone with the new @Mcp Annotations (@McpTool) and Oauth
 - [AWS Sample MCP Demos](https://github.com/aws-samples/Sample-Model-Context-Protocol-Demos) - Collection of examples showing how to use Model Context Protocol with AWS services, including Spring AI implementations.
+- [Live Tennis API MCP Server](https://github.com/livetennisapi/livetennisapi-mcp) - Official MCP server for the Live Tennis API providing real-time tennis scores, players, fixtures, results and odds across ATP, WTA, Challenger and ITF. Consumable from Spring AI's MCP client support via stdio (`npx -y livetennisapi-mcp`) or a hosted Streamable HTTP endpoint (`https://mcp.livetennisapi.com/mcp`, API-key auth); free tier available.
 
 ## Community
 
