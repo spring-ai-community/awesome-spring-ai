@@ -266,6 +266,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 
 ### Development Tools
 
+- [Agent QA](https://github.com/vostride/agent-qa) - Source-available QA agent for natural-language web and mobile regression tests around deployed Spring AI applications. It provides a CLI, dashboard, MCP server, persistent test memory, and local or OpenAI-compatible model support.
 - [Arconia Ollama Dev Service](https://arconia.io/docs/arconia/latest/dev-services/ollama/) - A Spring Boot development service that automatically manages Ollama instances for local LLM development. Simplifies testing and development with local models by handling container lifecycle and configuration. Integrates seamlessly with Spring AI's Ollama support.
 - [json-io](https://github.com/jdereg/json-io) — Java library with full TOON read/write support for LLM-optimized serialization. Achieves 40-50% token reduction vs JSON while handling complex object graphs, cyclic references, and generics.
 
