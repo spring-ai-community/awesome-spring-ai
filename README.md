@@ -282,6 +282,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - [Swagger MCP Bridge](https://github.com/Neo1228/spring-boot-starter-swagger-mcp) - A Spring Boot starter that turns SpringDoc OpenAPI operations into MCP tools with validation, workflow orchestration, and guardrails.
 - [JVM Diagnostics MCP](https://github.com/brunoborges/jvm-diagnostics-mcp) - A Model Context Protocol service for obtaining JVM diagnostics, allowing AI assistants to access runtime information about Java applications.
 - [Maven Tools MCP Server](https://github.com/arvindand/maven-tools-mcp) - Real-time Maven Central dependency intelligence for AI assistants with Context7 documentation integration.
+- [Spring Boot MCP Gateway](https://github.com/ashishgituser/springboot-mcp-gateway) - A Spring Boot starter that fronts multiple MCP servers behind a single gateway endpoint, handling tool routing/aggregation, policy-based authorization, Micrometer observability and Bucket4j-backed rate limiting centrally instead of in every downstream server.
 
 #### Domain-Specific MCP Implementations
 - [Kotlin Crypto Price MCP Server](https://github.com/gaplo917/kotlin-cyrpto-price-spring-mcp-server-demo) - A Kotlin-based Spring AI MCP server that provides real-time cryptocurrency price information from Binance.
