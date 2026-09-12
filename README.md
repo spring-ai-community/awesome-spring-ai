@@ -242,6 +242,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 
 ### UI Clients
 
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source Git GUI and multi-worktree client with an amazing UI built for parallel agentic workflows, featuring programmatic verifications and review loops.
 - [Spring AI HTMX MCP](https://github.com/habuma/spring-ai-examples/tree/main/spring-ai-htmx-mcp) - Example of building a modern, interactive UI for Spring AI applications using HTMX. Demonstrates how to create a responsive chat interface with minimal JavaScript by leveraging HTMX's server-side rendering capabilities combined with Spring AI's Model Context Protocol.
 
 - [Spring AI Vaadin](https://github.com/spring-ai-community/spring-ai-vaadin) - Integration of Spring AI with Vaadin, a Java web framework for building modern web applications. Provides components and examples for creating rich, interactive AI-powered UIs with pure Java, without requiring JavaScript or HTML knowledge.
