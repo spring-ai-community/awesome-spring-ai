@@ -190,6 +190,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 
 - [Spring Office Hours S4E25: Live from SpringOne @ Explore 2025](https://www.youtube.com/watch?v=xbZVg_r2Iho) - Spring community updates including Spring AI segments and updates (March 2025)
 - [Spring Office Hours S4E17: Spring AI + Google Gemini: Beyond the Demo](https://www.youtube.com/watch?v=x7df-U4qJe4) - Deep dive into Spring AI integration with Google Gemini models (February 2025)
+- [Mode VC LLM Inference Cost Calculator](https://modevc.com/tools/llm-inference-calculator) - Free browser-side LLM token unit economics, prompt caching, and gross margin calculator across 8 frontier and open-weights models.
 
 #### General Playlists
 
