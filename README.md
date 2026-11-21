@@ -231,6 +231,8 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 
 - [Spring AI Showcase by Piotr Minkowski](https://github.com/piomin/spring-ai-showcase) - Modular demo project showcasing multiple Spring AI features including prompt templates, chat memory, structured output, function calling, RAG with Pinecone vector store, and image models. Supports multiple AI providers (OpenAI, Mistral, Ollama, Azure OpenAI) with profile-based configuration.
 
+- [AF4J Cookbook](https://github.com/datallmhub/agentflow4j-cookbook) - Eleven self-contained Maven recipes for multi-agent workflows with Spring AI and AF4J: RAG agent, ticket triage, web research, Slack bot, batch processing, cost-aware routing, governed MCP agent, self-correcting writer, LLM as a judge, parallel research squad and a governed OpenHands workflow. Each recipe runs locally against Ollama, or in stub mode with no model at all.
+
 ### Code Examples
 
 - [Spring AI Official Examples](https://github.com/spring-projects/spring-ai-examples) - Comprehensive official repository containing examples for all Spring AI features including MCP dynamic tools, prompt engineering patterns, agentic workflows, vector stores, and various model integrations (2025)
@@ -265,6 +267,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - [Regulus](https://github.com/neul-labs/regulus) - Open-source EU & UK compliance plane for Google ADK. Runtime ADK plugin suite with PII redaction, dual-control kill switch, fail-closed data residency, model-risk tiering, and hash-chained audit envelopes mapped to EU AI Act, GDPR, DORA, NIS2, UK GDPR, FCA SYSC, PRA SS1/23. Spring Boot starter auto-wires every plugin from `application.yaml`. (MIT, Maven `com.neullabs:regulus-ai-adk-plugins`, ADK 1.2.0)
 - [Cycles Spring AI Starter](https://github.com/runcycles/cycles-spring-ai-starter) - A Spring AI advisor + auto-configuration that adds budget enforcement and runtime authority to `ChatClient` invocations. Performs a reserve → call → commit/release lifecycle against the [Cycles](https://runcycles.io) authority server before each LLM call; denials throw before contacting the provider. Multi-tenant LLM cost control with per-subject attribution. Compatible with Java 21+, Spring Boot 3.5+, and Spring AI 1.0+.
 - [Spring AI Privacy Guardrails](https://github.com/ultramancode/spring-ai-privacy-guardrails) - Privacy guardrails for Spring AI applications with request-scoped PII tokenization, least-privilege disclosure at tool boundaries, and pluggable PII detection via Regex, Presidio, and OpenNLP. Supports RAG, chat memory, local tools, MCP tool flows, and optional final-response protection.
+- [AF4J (AgentFlow4J)](https://github.com/datallmhub/agentflow4j) - A runtime for governed, stateful multi-agent workflows on top of Spring AI's `ChatClient`. Adds an explicit agent graph with parallel branches, checkpoints on JDBC or Redis with resume by run id, and governance gates: a tool policy per agent, a budget per run and human approval before a node. Built and tested against Spring AI 1.0, 1.1 and 2.1.
 
 ### Development Tools
 
